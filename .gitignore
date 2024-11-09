@@ -1,0 +1,8 @@
+# ROS build and log files
+build/
+devel/
+logs/
+
+# Python cache files
+__pycache__/
+*.pyc
